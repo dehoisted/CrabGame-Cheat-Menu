@@ -1,6 +1,6 @@
 # CrabGame-Cheat-Menu
 CrabGame External Cheat Menu; easy-to-use.                                                                                                                    
-Download the latest release (here)[].                                                                                                                         
+Download the latest release [here](https://github.com/dehoisted/CrabGame-Cheat-Menu/releases/download/V1.0/CrabGame-Cheat-Menu_V1.zip).                                                                                                                         
 
 + GUI Made using ImGui
 
